@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Uploads & temp data
+uploads/
+tokens/
+*.json
+
+# Google OAuth tokens
+token.json
+calendar_token.json
+gmail_token.json
+credentials.json
+client_secret.json
+
+# Cache
+.cache/
