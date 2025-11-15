@@ -1,0 +1,16 @@
+google-api-python-client>=2.80.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+langchain>=0.0.350
+langchain-groq>=0.0.1
+groq>=0.1.0
+APScheduler>=3.9.1
+python-dotenv>=1.0
+flask>=2.3.0            # optional, if you want web UI
+requests>=2.31
+Flask>=2.3
+python-dotenv>=1.0
+google-api-python-client
+langchain-groq
+groq
+requests
